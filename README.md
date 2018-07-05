@@ -2,11 +2,11 @@
 
 ## 프로젝트 테스트
 
-dev1
+dev1 devuser1
 
-dev2
+dev2 devuser2
 
-dev3
+dev3 jbkoo
 
 dev4
 
